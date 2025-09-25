@@ -1,3 +1,9 @@
+**Martin's notes 2025-09-25:**
+This setup seems to deliver a working WP blog on port 8080
+- [Pros] Wordpress front page available at port 8080
+- [Cons] No PHPAdmin
+- [Cons] Cannot login into admin, wp-login.php does not seem to exist.  
+
 # vscode-devcontainer-wordpress
 
 This contains the configuration necessary for setting up WordPress development using VSCode Dev Containers.
